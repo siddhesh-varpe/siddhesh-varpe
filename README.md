@@ -37,7 +37,7 @@ researcher = {
 |---|-------|-------|--------|-------|
 | 1 | **User Acceptance Test Case Generation Using LLMs** | IEEE CASCON 2025 | ✅ Published | [![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat&logo=ieee&logoColor=white)](https://www.computer.org/csdl/proceedings-article/cascon/2025/994800a532/2dvK54ZD2M0) |
 | 2 | **Skin Cancer Detection using MultiModal Ensemble** | IEEE ACCESS | 🔄 Published | — |
-| 3 | **Style-Aware Image Captioning** | — | 🔄 Under Review | — |
+| 3 | **Style-Aware Image Captioning** | Springer | 🔄 Under Review | — |
 
 <details>
 <summary>📋 BibTeX Citation — UAT Generation Paper</summary>
