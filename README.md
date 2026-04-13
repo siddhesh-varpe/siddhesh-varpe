@@ -206,19 +206,6 @@ Vidyalankar Institute of Technology (VIT), Mumbai
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=siddhesh-varpe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-varpe&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-varpe&theme=github-dark-blue&hide_border=true" width="60%"/>
-
-</div>
-
----
-
 <div align="center">
 
 *"Every dataset is a story waiting to be told, and every model is a step toward a more intelligent future."*
